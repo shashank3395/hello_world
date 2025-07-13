@@ -20,3 +20,12 @@ while i <= 10:
     i += 1
 
 # add table of 13 also.
+# add table of 10 as
+
+i = 1
+while i <= 10:
+    print(f"10 * {i} = {10 * i}")
+    i += 1
+
+# add table of 10 al
+

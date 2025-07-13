@@ -11,3 +11,12 @@ for i in range(1, 11):
 i = 1
 while i <= 10:
     print(f"2 * {i} = {2 * i}")
+
+# add table of 13 also.
+
+i = 1
+while i <= 10:
+    print(f"13 * {i} = {13 * i}")
+    i += 1
+
+# add table of 13 also.
